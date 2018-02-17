@@ -1,0 +1,14 @@
+identifiers:
+
+ abc  --- V
+ ab_  --- V
+ ab$  --- I
+ a_b  --- V
+ 123  --- I
+ abc123_  --- V
+ 1abc --- I
+ _a_b --- V
+ abc#123x%  --- I
+ if  --- I 
+ elif --- I
+ int --- V 

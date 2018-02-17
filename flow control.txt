@@ -1,0 +1,32 @@
+flow control:
+  1. conditional statements: if, elif and else 
+  2. iterative statements: for, while
+  3. transfer statements: break, continue, return, try, except
+  
+1. conditional statements:
+    1. execute block of statements only if condition satisfies(if)
+	    if condition:
+		    statements
+	
+	2. execute block of statements if compound condition satisfies
+	    if condition and/or condition2:
+		   statements
+	
+	3. execute a block of statements if condition satisfies otherwise execute alternative     block of statements
+	   if conditions:
+	      statements
+	   else:
+	       alternative statements
+	4. having multiple alternatives
+	     if condition1:
+		    statements
+		 elif condition2:
+		    first set of alternatives
+		 else:
+		   second set of alternatives
+	4. execute block of statements based on nested conditions
+	     if condition:
+		   if condition:
+		      if condition:
+			     statements
+	

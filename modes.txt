@@ -1,0 +1,11 @@
+Interactive Mode:
+  1. Up/trigger python interpreter
+  2. execute the statements
+  3. stop the interpreter
+
+Script Mode:
+  1. write all statements in a file and save the file with extension .py 
+  2. pass the file as an argument to the python python interpreter
+
+  
+  
